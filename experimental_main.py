@@ -126,9 +126,6 @@ class ExperimentalMain(object):
 
 if __name__ == '__main__':
 
-    # Insert another comment
-    # Another comment - just for commit - no push...
-
     # Elastic Search Tests...
     #ExperimentalMain.autocomplete()
     ExperimentalMain.test_elastic_search()
